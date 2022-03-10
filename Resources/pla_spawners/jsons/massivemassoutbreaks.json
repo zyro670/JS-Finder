@@ -2290,7 +2290,8 @@
   "0x95E8E33C775F739A": [
     {
       "slot": 100,
-      "name": "Shellos-1",
+      "name": "Shellos",
+      "form": 1,
       "alpha": false,
       "level": [
         27,
@@ -2300,7 +2301,8 @@
     },
     {
       "slot": 1,
-      "name": "Shellos-1",
+      "name": "Shellos",
+      "form": 1,
       "alpha": true,
       "level": [
         42,
@@ -2310,7 +2312,8 @@
     },
     {
       "slot": 10,
-      "name": "Gastrodon-1",
+      "name": "Gastrodon",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -2320,7 +2323,8 @@
     },
     {
       "slot": 1,
-      "name": "Gastrodon-1",
+      "name": "Gastrodon",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -2332,7 +2336,8 @@
   "0x24AD9BA2CE46D8AE": [
     {
       "slot": 100,
-      "name": "Gastrodon-1",
+      "name": "Gastrodon",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -2342,7 +2347,8 @@
     },
     {
       "slot": 1,
-      "name": "Gastrodon-1",
+      "name": "Gastrodon",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -2354,7 +2360,8 @@
   "0x24AD9CA2CE46DA61": [
     {
       "slot": 100,
-      "name": "Shellos-1",
+      "name": "Shellos",
+      "form": 1,
       "alpha": true,
       "level": [
         42,
@@ -2366,7 +2373,8 @@
   "0x24AD99A2CE46D548": [
     {
       "slot": 100,
-      "name": "Gastrodon-1",
+      "name": "Gastrodon",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -2554,7 +2562,7 @@
   "0x4418CAFB9AE0F8F7": [
     {
       "slot": 100,
-      "name": "MimeJr.",
+      "name": "MimeJr",
       "alpha": false,
       "level": [
         60,
@@ -2564,7 +2572,7 @@
     },
     {
       "slot": 1,
-      "name": "MimeJr.",
+      "name": "MimeJr",
       "alpha": true,
       "level": [
         75,
@@ -2574,7 +2582,7 @@
     },
     {
       "slot": 10,
-      "name": "Mr.Mime",
+      "name": "MrMime",
       "alpha": false,
       "level": [
         62,
@@ -2584,7 +2592,7 @@
     },
     {
       "slot": 1,
-      "name": "Mr.Mime",
+      "name": "MrMime",
       "alpha": true,
       "level": [
         77,
@@ -2596,7 +2604,7 @@
   "0x1F293212F14023D3": [
     {
       "slot": 100,
-      "name": "Mr.Mime",
+      "name": "MrMime",
       "alpha": false,
       "level": [
         62,
@@ -2606,7 +2614,7 @@
     },
     {
       "slot": 1,
-      "name": "Mr.Mime",
+      "name": "MrMime",
       "alpha": true,
       "level": [
         77,
@@ -2618,7 +2626,7 @@
   "0x1F293112F1402220": [
     {
       "slot": 100,
-      "name": "MimeJr.",
+      "name": "MimeJr",
       "alpha": true,
       "level": [
         75,
@@ -2630,7 +2638,7 @@
   "0x1F293412F1402739": [
     {
       "slot": 100,
-      "name": "Mr.Mime",
+      "name": "MrMime",
       "alpha": true,
       "level": [
         77,
@@ -2764,7 +2772,8 @@
   "0xDA1D5C5459E77470": [
     {
       "slot": 100,
-      "name": "Zorua-1",
+      "name": "Zorua",
+      "form": 1,
       "alpha": false,
       "level": [
         27,
@@ -2774,7 +2783,8 @@
     },
     {
       "slot": 1,
-      "name": "Zorua-1",
+      "name": "Zorua",
+      "form": 1,
       "alpha": true,
       "level": [
         42,
@@ -2784,7 +2794,8 @@
     },
     {
       "slot": 10,
-      "name": "Zoroark-1",
+      "name": "Zoroark",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -2794,7 +2805,8 @@
     },
     {
       "slot": 1,
-      "name": "Zoroark-1",
+      "name": "Zoroark",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -2806,7 +2818,8 @@
   "0xF38D23F2E9E91E3C": [
     {
       "slot": 100,
-      "name": "Zoroark-1",
+      "name": "Zoroark",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -2816,7 +2829,8 @@
     },
     {
       "slot": 1,
-      "name": "Zoroark-1",
+      "name": "Zoroark",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -2828,7 +2842,8 @@
   "0xF38D24F2E9E91FEF": [
     {
       "slot": 100,
-      "name": "Zorua-1",
+      "name": "Zorua",
+      "form": 1,
       "alpha": true,
       "level": [
         42,
@@ -2840,7 +2855,8 @@
   "0xF38D25F2E9E921A2": [
     {
       "slot": 100,
-      "name": "Zoroark-1",
+      "name": "Zoroark",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -3664,7 +3680,8 @@
     },
     {
       "slot": 10,
-      "name": "Typhlosion-1",
+      "name": "Typhlosion",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -3674,7 +3691,8 @@
     },
     {
       "slot": 1,
-      "name": "Typhlosion-1",
+      "name": "Typhlosion",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -3686,7 +3704,8 @@
   "0x4E89B4AF704CE708": [
     {
       "slot": 100,
-      "name": "Typhlosion-1",
+      "name": "Typhlosion",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -3696,7 +3715,8 @@
     },
     {
       "slot": 1,
-      "name": "Typhlosion-1",
+      "name": "Typhlosion",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -3720,7 +3740,8 @@
   "0x4E89B6AF704CEA6E": [
     {
       "slot": 100,
-      "name": "Typhlosion-1",
+      "name": "Typhlosion",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -5174,7 +5195,8 @@
     },
     {
       "slot": 10,
-      "name": "Lilligant-1",
+      "name": "Lilligant",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -5184,7 +5206,8 @@
     },
     {
       "slot": 1,
-      "name": "Lilligant-1",
+      "name": "Lilligant",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -5196,7 +5219,8 @@
   "0x1A20F2EF75D8DB19": [
     {
       "slot": 100,
-      "name": "Lilligant-1",
+      "name": "Lilligant",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -5206,7 +5230,8 @@
     },
     {
       "slot": 1,
-      "name": "Lilligant-1",
+      "name": "Lilligant",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -5230,7 +5255,8 @@
   "0x1A20F0EF75D8D7B3": [
     {
       "slot": 100,
-      "name": "Lilligant-1",
+      "name": "Lilligant",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -5262,7 +5288,8 @@
     },
     {
       "slot": 10,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -5272,7 +5299,8 @@
     },
     {
       "slot": 1,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -5284,7 +5312,8 @@
   "0xC614DC641BC4FED4": [
     {
       "slot": 100,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -5294,7 +5323,8 @@
     },
     {
       "slot": 1,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -5318,7 +5348,8 @@
   "0xC614DE641BC5023A": [
     {
       "slot": 100,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -5330,7 +5361,8 @@
   "0x033920EBC10C294E": [
     {
       "slot": 100,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -5340,7 +5372,8 @@
     },
     {
       "slot": 1,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -5350,7 +5383,8 @@
     },
     {
       "slot": 10,
-      "name": "Goodra-1",
+      "name": "Goodra",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -5360,7 +5394,8 @@
     },
     {
       "slot": 1,
-      "name": "Goodra-1",
+      "name": "Goodra",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -5372,7 +5407,8 @@
   "0xC9316887DE23403A": [
     {
       "slot": 100,
-      "name": "Goodra-1",
+      "name": "Goodra",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -5382,7 +5418,8 @@
     },
     {
       "slot": 1,
-      "name": "Goodra-1",
+      "name": "Goodra",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -5394,7 +5431,8 @@
   "0xC9316987DE2341ED": [
     {
       "slot": 100,
-      "name": "Sliggoo-1",
+      "name": "Sliggoo",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -5406,7 +5444,8 @@
   "0xC9316687DE233CD4": [
     {
       "slot": 100,
-      "name": "Goodra-1",
+      "name": "Goodra",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -5419,6 +5458,7 @@
     {
       "slot": 100,
       "name": "Unown",
+      "form": 0,
       "alpha": false,
       "level": [
         60,
@@ -5429,6 +5469,7 @@
     {
       "slot": 1,
       "name": "Unown",
+      "form": 0,
       "alpha": true,
       "level": [
         75,
@@ -5438,7 +5479,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-1",
+      "name": "Unown",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -5448,7 +5490,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-1",
+      "name": "Unown",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -5458,7 +5501,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-2",
+      "name": "Unown",
+      "form": 2,
       "alpha": false,
       "level": [
         60,
@@ -5468,7 +5512,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-2",
+      "name": "Unown",
+      "form": 2,
       "alpha": true,
       "level": [
         75,
@@ -5478,7 +5523,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-3",
+      "name": "Unown",
+      "form": 3,
       "alpha": false,
       "level": [
         60,
@@ -5488,7 +5534,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-3",
+      "name": "Unown",
+      "form": 3,
       "alpha": true,
       "level": [
         75,
@@ -5498,7 +5545,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-4",
+      "name": "Unown",
+      "form": 4,
       "alpha": false,
       "level": [
         60,
@@ -5508,7 +5556,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-4",
+      "name": "Unown",
+      "form": 4,
       "alpha": true,
       "level": [
         75,
@@ -5518,7 +5567,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-5",
+      "name": "Unown",
+      "form": 5,
       "alpha": false,
       "level": [
         60,
@@ -5528,7 +5578,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-5",
+      "name": "Unown",
+      "form": 5,
       "alpha": true,
       "level": [
         75,
@@ -5538,7 +5589,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-6",
+      "name": "Unown",
+      "form": 6,
       "alpha": false,
       "level": [
         60,
@@ -5548,7 +5600,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-6",
+      "name": "Unown",
+      "form": 6,
       "alpha": true,
       "level": [
         75,
@@ -5558,7 +5611,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-7",
+      "name": "Unown",
+      "form": 7,
       "alpha": false,
       "level": [
         60,
@@ -5568,7 +5622,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-7",
+      "name": "Unown",
+      "form": 7,
       "alpha": true,
       "level": [
         75,
@@ -5578,7 +5633,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-8",
+      "name": "Unown",
+      "form": 8,
       "alpha": false,
       "level": [
         60,
@@ -5588,7 +5644,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-8",
+      "name": "Unown",
+      "form": 8,
       "alpha": true,
       "level": [
         75,
@@ -5598,7 +5655,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-9",
+      "name": "Unown",
+      "form": 9,
       "alpha": false,
       "level": [
         60,
@@ -5608,7 +5666,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-9",
+      "name": "Unown",
+      "form": 9,
       "alpha": true,
       "level": [
         75,
@@ -5618,7 +5677,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-10",
+      "name": "Unown",
+      "form": 10,
       "alpha": false,
       "level": [
         60,
@@ -5628,7 +5688,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-10",
+      "name": "Unown",
+      "form": 10,
       "alpha": true,
       "level": [
         75,
@@ -5638,7 +5699,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-11",
+      "name": "Unown",
+      "form": 11,
       "alpha": false,
       "level": [
         60,
@@ -5648,7 +5710,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-11",
+      "name": "Unown",
+      "form": 11,
       "alpha": true,
       "level": [
         75,
@@ -5658,7 +5721,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-12",
+      "name": "Unown",
+      "form": 12,
       "alpha": false,
       "level": [
         60,
@@ -5668,7 +5732,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-12",
+      "name": "Unown",
+      "form": 12,
       "alpha": true,
       "level": [
         75,
@@ -5678,7 +5743,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-13",
+      "name": "Unown",
+      "form": 13,
       "alpha": false,
       "level": [
         60,
@@ -5688,7 +5754,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-13",
+      "name": "Unown",
+      "form": 13,
       "alpha": true,
       "level": [
         75,
@@ -5698,7 +5765,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-14",
+      "name": "Unown",
+      "form": 14,
       "alpha": false,
       "level": [
         60,
@@ -5708,7 +5776,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-14",
+      "name": "Unown",
+      "form": 14,
       "alpha": true,
       "level": [
         75,
@@ -5718,7 +5787,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-15",
+      "name": "Unown",
+      "form": 15,
       "alpha": false,
       "level": [
         60,
@@ -5728,7 +5798,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-15",
+      "name": "Unown",
+      "form": 15,
       "alpha": true,
       "level": [
         75,
@@ -5738,7 +5809,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-16",
+      "name": "Unown",
+      "form": 16,
       "alpha": false,
       "level": [
         60,
@@ -5748,7 +5820,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-16",
+      "name": "Unown",
+      "form": 16,
       "alpha": true,
       "level": [
         75,
@@ -5758,7 +5831,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-17",
+      "name": "Unown",
+      "form": 17,
       "alpha": false,
       "level": [
         60,
@@ -5768,7 +5842,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-17",
+      "name": "Unown",
+      "form": 17,
       "alpha": true,
       "level": [
         75,
@@ -5778,7 +5853,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-18",
+      "name": "Unown",
+      "form": 18,
       "alpha": false,
       "level": [
         60,
@@ -5788,7 +5864,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-18",
+      "name": "Unown",
+      "form": 18,
       "alpha": true,
       "level": [
         75,
@@ -5798,7 +5875,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-19",
+      "name": "Unown",
+      "form": 19,
       "alpha": false,
       "level": [
         60,
@@ -5808,7 +5886,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-19",
+      "name": "Unown",
+      "form": 19,
       "alpha": true,
       "level": [
         75,
@@ -5818,7 +5897,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-20",
+      "name": "Unown",
+      "form": 20,
       "alpha": false,
       "level": [
         60,
@@ -5828,7 +5908,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-20",
+      "name": "Unown",
+      "form": 20,
       "alpha": true,
       "level": [
         75,
@@ -5838,7 +5919,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-21",
+      "name": "Unown",
+      "form": 21,
       "alpha": false,
       "level": [
         60,
@@ -5848,7 +5930,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-21",
+      "name": "Unown",
+      "form": 21,
       "alpha": true,
       "level": [
         75,
@@ -5858,7 +5941,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-22",
+      "name": "Unown",
+      "form": 22,
       "alpha": false,
       "level": [
         60,
@@ -5868,7 +5952,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-22",
+      "name": "Unown",
+      "form": 22,
       "alpha": true,
       "level": [
         75,
@@ -5878,7 +5963,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-23",
+      "name": "Unown",
+      "form": 23,
       "alpha": false,
       "level": [
         60,
@@ -5888,7 +5974,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-23",
+      "name": "Unown",
+      "form": 23,
       "alpha": true,
       "level": [
         75,
@@ -5898,7 +5985,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-24",
+      "name": "Unown",
+      "form": 24,
       "alpha": false,
       "level": [
         60,
@@ -5908,7 +5996,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-24",
+      "name": "Unown",
+      "form": 24,
       "alpha": true,
       "level": [
         75,
@@ -5918,7 +6007,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-25",
+      "name": "Unown",
+      "form": 25,
       "alpha": false,
       "level": [
         60,
@@ -5928,7 +6018,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-25",
+      "name": "Unown",
+      "form": 25,
       "alpha": true,
       "level": [
         75,
@@ -5938,7 +6029,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-26",
+      "name": "Unown",
+      "form": 26,
       "alpha": false,
       "level": [
         60,
@@ -5948,7 +6040,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-26",
+      "name": "Unown",
+      "form": 26,
       "alpha": true,
       "level": [
         75,
@@ -5958,7 +6051,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-27",
+      "name": "Unown",
+      "form": 27,
       "alpha": false,
       "level": [
         60,
@@ -5968,7 +6062,8 @@
     },
     {
       "slot": 1,
-      "name": "Unown-27",
+      "name": "Unown",
+      "form": 27,
       "alpha": true,
       "level": [
         75,
@@ -5990,7 +6085,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-1",
+      "name": "Unown",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -6000,7 +6096,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-2",
+      "name": "Unown",
+      "form": 2,
       "alpha": true,
       "level": [
         75,
@@ -6010,7 +6107,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-3",
+      "name": "Unown",
+      "form": 3,
       "alpha": true,
       "level": [
         75,
@@ -6020,7 +6118,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-4",
+      "name": "Unown",
+      "form": 4,
       "alpha": true,
       "level": [
         75,
@@ -6030,7 +6129,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-5",
+      "name": "Unown",
+      "form": 5,
       "alpha": true,
       "level": [
         75,
@@ -6040,7 +6140,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-6",
+      "name": "Unown",
+      "form": 6,
       "alpha": true,
       "level": [
         75,
@@ -6050,7 +6151,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-7",
+      "name": "Unown",
+      "form": 7,
       "alpha": true,
       "level": [
         75,
@@ -6060,7 +6162,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-8",
+      "name": "Unown",
+      "form": 8,
       "alpha": true,
       "level": [
         75,
@@ -6070,7 +6173,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-9",
+      "name": "Unown",
+      "form": 9,
       "alpha": true,
       "level": [
         75,
@@ -6080,7 +6184,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-10",
+      "name": "Unown",
+      "form": 10,
       "alpha": true,
       "level": [
         75,
@@ -6090,7 +6195,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-11",
+      "name": "Unown",
+      "form": 11,
       "alpha": true,
       "level": [
         75,
@@ -6100,7 +6206,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-12",
+      "name": "Unown",
+      "form": 12,
       "alpha": true,
       "level": [
         75,
@@ -6110,7 +6217,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-13",
+      "name": "Unown",
+      "form": 13,
       "alpha": true,
       "level": [
         75,
@@ -6120,7 +6228,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-14",
+      "name": "Unown",
+      "form": 14,
       "alpha": true,
       "level": [
         75,
@@ -6130,7 +6239,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-15",
+      "name": "Unown",
+      "form": 15,
       "alpha": true,
       "level": [
         75,
@@ -6140,7 +6250,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-16",
+      "name": "Unown",
+      "form": 16,
       "alpha": true,
       "level": [
         75,
@@ -6150,7 +6261,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-17",
+      "name": "Unown",
+      "form": 17,
       "alpha": true,
       "level": [
         75,
@@ -6160,7 +6272,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-18",
+      "name": "Unown",
+      "form": 18,
       "alpha": true,
       "level": [
         75,
@@ -6170,7 +6283,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-19",
+      "name": "Unown",
+      "form": 19,
       "alpha": true,
       "level": [
         75,
@@ -6180,7 +6294,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-20",
+      "name": "Unown",
+      "form": 20,
       "alpha": true,
       "level": [
         75,
@@ -6190,7 +6305,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-21",
+      "name": "Unown",
+      "form": 21,
       "alpha": true,
       "level": [
         75,
@@ -6200,7 +6316,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-22",
+      "name": "Unown",
+      "form": 22,
       "alpha": true,
       "level": [
         75,
@@ -6210,7 +6327,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-23",
+      "name": "Unown",
+      "form": 23,
       "alpha": true,
       "level": [
         75,
@@ -6220,7 +6338,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-24",
+      "name": "Unown",
+      "form": 24,
       "alpha": true,
       "level": [
         75,
@@ -6230,7 +6349,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-25",
+      "name": "Unown",
+      "form": 25,
       "alpha": true,
       "level": [
         75,
@@ -6240,7 +6360,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-26",
+      "name": "Unown",
+      "form": 26,
       "alpha": true,
       "level": [
         75,
@@ -6250,7 +6371,8 @@
     },
     {
       "slot": 100,
-      "name": "Unown-27",
+      "name": "Unown",
+      "form": 27,
       "alpha": true,
       "level": [
         75,
@@ -6350,7 +6472,8 @@
   "0xF952ECA9545BE7A3": [
     {
       "slot": 100,
-      "name": "Growlithe-1",
+      "name": "Growlithe",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -6360,7 +6483,8 @@
     },
     {
       "slot": 1,
-      "name": "Growlithe-1",
+      "name": "Growlithe",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -6370,7 +6494,8 @@
     },
     {
       "slot": 10,
-      "name": "Arcanine-1",
+      "name": "Arcanine",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -6380,7 +6505,8 @@
     },
     {
       "slot": 1,
-      "name": "Arcanine-1",
+      "name": "Arcanine",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -6392,7 +6518,8 @@
   "0x9EE3048AE5FD61E7": [
     {
       "slot": 100,
-      "name": "Arcanine-1",
+      "name": "Arcanine",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -6402,7 +6529,8 @@
     },
     {
       "slot": 1,
-      "name": "Arcanine-1",
+      "name": "Arcanine",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -6414,7 +6542,8 @@
   "0x9EE3038AE5FD6034": [
     {
       "slot": 100,
-      "name": "Growlithe-1",
+      "name": "Growlithe",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -6426,7 +6555,8 @@
   "0x9EE3068AE5FD654D": [
     {
       "slot": 100,
-      "name": "Arcanine-1",
+      "name": "Arcanine",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -7318,7 +7448,8 @@
   "0xC36D985994A653F4": [
     {
       "slot": 100,
-      "name": "Qwilfish-1",
+      "name": "Qwilfish",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -7328,7 +7459,8 @@
     },
     {
       "slot": 1,
-      "name": "Qwilfish-1",
+      "name": "Qwilfish",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -7382,7 +7514,8 @@
   "0x3E9E5139EC47154B": [
     {
       "slot": 100,
-      "name": "Qwilfish-1",
+      "name": "Qwilfish",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -8198,7 +8331,8 @@
   "0xA37B2DA46ABBE8A6": [
     {
       "slot": 100,
-      "name": "Basculin-2",
+      "name": "Basculin",
+      "form": 2,
       "alpha": false,
       "level": [
         60,
@@ -8208,7 +8342,8 @@
     },
     {
       "slot": 1,
-      "name": "Basculin-2",
+      "name": "Basculin",
+      "form": 2,
       "alpha": true,
       "level": [
         75,
@@ -8228,7 +8363,8 @@
     },
     {
       "slot": 10,
-      "name": "Basculegion-1",
+      "name": "Basculegion",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -8248,7 +8384,8 @@
     },
     {
       "slot": 1,
-      "name": "Basculegion-1",
+      "name": "Basculegion",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -8270,7 +8407,8 @@
     },
     {
       "slot": 100,
-      "name": "Basculegion-1",
+      "name": "Basculegion",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -8290,7 +8428,8 @@
     },
     {
       "slot": 1,
-      "name": "Basculegion-1",
+      "name": "Basculegion",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -8302,7 +8441,8 @@
   "0x542CF5BA871BA0D5": [
     {
       "slot": 100,
-      "name": "Basculin-2",
+      "name": "Basculin",
+      "form": 2,
       "alpha": true,
       "level": [
         75,
@@ -8324,7 +8464,8 @@
     },
     {
       "slot": 100,
-      "name": "Basculegion-1",
+      "name": "Basculegion",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -8424,7 +8565,8 @@
   "0x74F99006BF1DF995": [
     {
       "slot": 100,
-      "name": "Voltorb-1",
+      "name": "Voltorb",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -8434,7 +8576,8 @@
     },
     {
       "slot": 1,
-      "name": "Voltorb-1",
+      "name": "Voltorb",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -8444,7 +8587,8 @@
     },
     {
       "slot": 10,
-      "name": "Electrode-1",
+      "name": "Electrode",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -8454,7 +8598,8 @@
     },
     {
       "slot": 1,
-      "name": "Electrode-1",
+      "name": "Electrode",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -8466,7 +8611,8 @@
   "0x997C88EF68629FF9": [
     {
       "slot": 100,
-      "name": "Electrode-1",
+      "name": "Electrode",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -8476,7 +8622,8 @@
     },
     {
       "slot": 1,
-      "name": "Electrode-1",
+      "name": "Electrode",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -8488,7 +8635,8 @@
   "0x997C87EF68629E46": [
     {
       "slot": 100,
-      "name": "Voltorb-1",
+      "name": "Voltorb",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -8500,7 +8648,8 @@
   "0x997C86EF68629C93": [
     {
       "slot": 100,
-      "name": "Electrode-1",
+      "name": "Electrode",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -8810,7 +8959,8 @@
   "0x7C1EF5BAB066B858": [
     {
       "slot": 100,
-      "name": "Sneasel-1",
+      "name": "Sneasel",
+      "form": 1,
       "alpha": false,
       "level": [
         60,
@@ -8820,7 +8970,8 @@
     },
     {
       "slot": 1,
-      "name": "Sneasel-1",
+      "name": "Sneasel",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -8874,7 +9025,8 @@
   "0xAA693EDF40C4A567": [
     {
       "slot": 100,
-      "name": "Sneasel-1",
+      "name": "Sneasel",
+      "form": 1,
       "alpha": true,
       "level": [
         75,
@@ -9744,7 +9896,8 @@
     },
     {
       "slot": 10,
-      "name": "Decidueye-1",
+      "name": "Decidueye",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -9754,7 +9907,8 @@
     },
     {
       "slot": 1,
-      "name": "Decidueye-1",
+      "name": "Decidueye",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -9766,7 +9920,8 @@
   "0x9F57EDA9C0C34A0E": [
     {
       "slot": 100,
-      "name": "Decidueye-1",
+      "name": "Decidueye",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -9776,7 +9931,8 @@
     },
     {
       "slot": 1,
-      "name": "Decidueye-1",
+      "name": "Decidueye",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -9800,7 +9956,8 @@
   "0x9F57EBA9C0C346A8": [
     {
       "slot": 100,
-      "name": "Decidueye-1",
+      "name": "Decidueye",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -10448,7 +10605,8 @@
     },
     {
       "slot": 10,
-      "name": "Samurott-1",
+      "name": "Samurott",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -10458,7 +10616,8 @@
     },
     {
       "slot": 1,
-      "name": "Samurott-1",
+      "name": "Samurott",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -10470,7 +10629,8 @@
   "0x88137D48FC79DDDF": [
     {
       "slot": 100,
-      "name": "Samurott-1",
+      "name": "Samurott",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -10480,7 +10640,8 @@
     },
     {
       "slot": 1,
-      "name": "Samurott-1",
+      "name": "Samurott",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -10504,7 +10665,8 @@
   "0x88137F48FC79E145": [
     {
       "slot": 100,
-      "name": "Samurott-1",
+      "name": "Samurott",
+      "form": 1,
       "alpha": true,
       "level": [
         82,
@@ -10536,7 +10698,8 @@
     },
     {
       "slot": 10,
-      "name": "Braviary-1",
+      "name": "Braviary",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -10546,7 +10709,8 @@
     },
     {
       "slot": 1,
-      "name": "Braviary-1",
+      "name": "Braviary",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -10558,7 +10722,8 @@
   "0x9052FE62BA69D007": [
     {
       "slot": 100,
-      "name": "Braviary-1",
+      "name": "Braviary",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -10568,7 +10733,8 @@
     },
     {
       "slot": 1,
-      "name": "Braviary-1",
+      "name": "Braviary",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -10592,7 +10758,8 @@
   "0x90530062BA69D36D": [
     {
       "slot": 100,
-      "name": "Braviary-1",
+      "name": "Braviary",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -10624,7 +10791,8 @@
     },
     {
       "slot": 10,
-      "name": "Avalugg-1",
+      "name": "Avalugg",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -10634,7 +10802,8 @@
     },
     {
       "slot": 1,
-      "name": "Avalugg-1",
+      "name": "Avalugg",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -10646,7 +10815,8 @@
   "0x9D713ECF138FD7A2": [
     {
       "slot": 100,
-      "name": "Avalugg-1",
+      "name": "Avalugg",
+      "form": 1,
       "alpha": false,
       "level": [
         62,
@@ -10656,7 +10826,8 @@
     },
     {
       "slot": 1,
-      "name": "Avalugg-1",
+      "name": "Avalugg",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
@@ -10680,7 +10851,8 @@
   "0x9D713CCF138FD43C": [
     {
       "slot": 100,
-      "name": "Avalugg-1",
+      "name": "Avalugg",
+      "form": 1,
       "alpha": true,
       "level": [
         77,
